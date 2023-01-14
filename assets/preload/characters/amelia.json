@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Amelia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Amelia Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Amelia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Amelia Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-48
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Amelia Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AmeliaLuna",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amelia",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

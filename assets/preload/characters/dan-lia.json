@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dan Lia Idle"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dan Up"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dan Down"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dan Left"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dan Right"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Lia Right"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Lia Down"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Lia Left"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Lia Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DanLia",
+	"position": [
+		-110,
+		10
+	],
+	"healthicon": "dan_lia",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		76,
+		133
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

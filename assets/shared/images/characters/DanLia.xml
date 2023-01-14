@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DanLia.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dan Down0000" x="0" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Down0001" x="573" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Down0002" x="1146" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Down0003" x="1719" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Down0004" x="2292" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Down0005" x="2292" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0000" x="2865" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0001" x="3438" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0002" x="4011" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0003" x="4584" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0004" x="5157" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Left0005" x="5157" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0000" x="5730" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0001" x="6303" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0002" x="6876" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0003" x="7449" y="0" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0004" x="0" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0005" x="573" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0006" x="1146" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Lia Idle0007" x="1146" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0000" x="1719" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0001" x="2292" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0002" x="2865" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0003" x="3438" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0004" x="4011" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Right0005" x="4011" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0000" x="4584" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0001" x="5157" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0002" x="5730" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0003" x="6303" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0004" x="6876" y="833" width="573" height="833"/>
+	<SubTexture name="Dan Up0005" x="6876" y="833" width="573" height="833"/>
+	<SubTexture name="Lia Down0000" x="7449" y="833" width="573" height="833"/>
+	<SubTexture name="Lia Down0001" x="0" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Down0002" x="573" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Down0003" x="1146" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Down0004" x="1719" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Down0005" x="1719" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Left0000" x="2292" y="1666" width="583" height="833" frameX="0" frameY="0" frameWidth="585" frameHeight="833"/>
+	<SubTexture name="Lia Left0001" x="2875" y="1666" width="585" height="833"/>
+	<SubTexture name="Lia Left0002" x="3460" y="1666" width="573" height="833" frameX="0" frameY="0" frameWidth="585" frameHeight="833"/>
+	<SubTexture name="Lia Left0003" x="4033" y="1666" width="573" height="833" frameX="0" frameY="0" frameWidth="585" frameHeight="833"/>
+	<SubTexture name="Lia Left0004" x="4606" y="1666" width="573" height="833" frameX="0" frameY="0" frameWidth="585" frameHeight="833"/>
+	<SubTexture name="Lia Left0005" x="4606" y="1666" width="573" height="833" frameX="0" frameY="0" frameWidth="585" frameHeight="833"/>
+	<SubTexture name="Lia Right0000" x="5179" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Right0001" x="5752" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Right0002" x="6325" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Right0003" x="6898" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Right0004" x="7471" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Right0005" x="7471" y="1666" width="573" height="833"/>
+	<SubTexture name="Lia Up0000" x="0" y="2499" width="573" height="833"/>
+	<SubTexture name="Lia Up0001" x="573" y="2499" width="573" height="833"/>
+	<SubTexture name="Lia Up0002" x="1146" y="2499" width="573" height="833"/>
+	<SubTexture name="Lia Up0003" x="1719" y="2499" width="573" height="833"/>
+	<SubTexture name="Lia Up0004" x="2292" y="2499" width="573" height="833"/>
+	<SubTexture name="Lia Up0005" x="2292" y="2499" width="573" height="833"/>
+</TextureAtlas>

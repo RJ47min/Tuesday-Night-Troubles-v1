@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evan Down0000" x="0" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0001" x="569" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0002" x="1138" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0003" x="1707" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0004" x="2276" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0005" x="2845" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0006" x="3414" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down0007" x="3983" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down MISS0000" x="4552" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down MISS0001" x="5121" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Down MISS0002" x="5690" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Idle0000" x="6259" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Idle0001" x="6828" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Idle0002" x="7397" y="0" width="569" height="614"/>
+	<SubTexture name="Evan Idle0003" x="0" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0004" x="569" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0005" x="1138" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0006" x="1707" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0007" x="2276" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0008" x="2845" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Idle0009" x="3414" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0000" x="3983" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0001" x="4552" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0002" x="5121" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0003" x="5690" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0004" x="6259" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0005" x="6828" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left0006" x="7397" y="614" width="569" height="614"/>
+	<SubTexture name="Evan Left MISS0000" x="0" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Left MISS0001" x="569" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Left MISS0002" x="1138" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0000" x="1707" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0001" x="2276" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0002" x="2845" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0003" x="3414" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0004" x="3983" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0005" x="4552" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right0006" x="5121" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right MISS0000" x="5690" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right MISS0001" x="6259" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Right MISS0002" x="6828" y="1228" width="569" height="614"/>
+	<SubTexture name="Evan Up0000" x="7397" y="1228" width="584" height="643"/>
+	<SubTexture name="Evan Up0001" x="0" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up0002" x="584" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up0003" x="1168" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up0004" x="1752" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up0005" x="2336" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up0006" x="2920" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up MISS0000" x="3504" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up MISS0001" x="4088" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan Up MISS0002" x="4672" y="1871" width="584" height="643"/>
+	<SubTexture name="Evan dead confirm0000" x="5256" y="1871" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0001" x="5825" y="1871" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0002" x="6394" y="1871" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0003" x="6963" y="1871" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0004" x="7532" y="1871" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0005" x="0" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0006" x="569" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0007" x="1138" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0008" x="1707" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0009" x="2276" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0010" x="2845" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead confirm0011" x="3414" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0000" x="3983" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0001" x="4552" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0002" x="5121" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0003" x="5690" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0004" x="6259" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0005" x="6828" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0006" x="7397" y="2514" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0007" x="0" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0008" x="569" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0009" x="1138" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0010" x="1707" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0011" x="2276" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0012" x="2845" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0013" x="3414" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0014" x="3983" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0015" x="4552" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0016" x="5121" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0017" x="5690" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan dead loop0018" x="6259" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan first death0000" x="6828" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan first death0001" x="7397" y="3128" width="569" height="614"/>
+	<SubTexture name="Evan first death0002" x="0" y="3742" width="569" height="614"/>
+	<SubTexture name="Evan first death0003" x="569" y="3742" width="569" height="614"/>
+	<SubTexture name="Evan first death0004" x="1138" y="3742" width="569" height="614"/>
+	<SubTexture name="Evan first death0005" x="1707" y="3742" width="569" height="614"/>
+	<SubTexture name="Evan first death0006" x="2276" y="3742" width="569" height="614"/>
+	<SubTexture name="Evan first death0007" x="2845" y="3742" width="569" height="614"/>
+</TextureAtlas>

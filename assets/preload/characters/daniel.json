@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Daniel Left"
+		},
+		{
+			"offsets": [
+				48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Daniel Down"
+		},
+		{
+			"offsets": [
+				48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Daniel Up"
+		},
+		{
+			"offsets": [
+				48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Daniel Right"
+		},
+		{
+			"offsets": [
+				48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Daniel Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DanielAmaya",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "daniel",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		44,
+		74
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

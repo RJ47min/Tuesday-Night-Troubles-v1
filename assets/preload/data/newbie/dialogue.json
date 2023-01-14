@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Good work man! I didn't think it would be this good!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Daniel"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehe, thanks Dan"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "So this is where you were all this time Daniel?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh Amelia, didn't know you were wondering about my whereabouts. My bad..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh don't worry about that"
+		},
+		{
+			"expression": "worried",
+			"text": "So uhhh, who are these two?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Oh yeah, I never got your names"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh my bad, I forgot to introduce ourselves"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm Evan"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "And I'm Lucy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Evan and Lucy, nice names"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Those are indeed nice names"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks :>"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And you are Amelia right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yea I am"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Alright Amelia, do you wanna sing together?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Ummm, sure. I haven't sang in a long time so this will be interesting"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You got this Amelia!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Anyway, I'll be back in a minute or three, gotta go and get smth..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "You forgot your scarf didn't you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "of course I did..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Alright Alright, go get it then. I'll be here singing with Evan "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Alright see ya later!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright Amelia, let's do this!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Here goes nothing..."
+		}
+	]
+}

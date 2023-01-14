@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Amelia.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Annoyed0000" x="0" y="0" width="393" height="737"/>
+	<SubTexture name="Annoyed0001" x="0" y="0" width="393" height="737"/>
+	<SubTexture name="Happy0000" x="393" y="0" width="393" height="737"/>
+	<SubTexture name="Happy0001" x="393" y="0" width="393" height="737"/>
+	<SubTexture name="Scared0000" x="786" y="0" width="393" height="737"/>
+	<SubTexture name="Scared0001" x="786" y="0" width="393" height="737"/>
+	<SubTexture name="Talking0000" x="1179" y="0" width="393" height="737"/>
+	<SubTexture name="Talking0001" x="1179" y="0" width="393" height="737"/>
+	<SubTexture name="Worried0000" x="1572" y="0" width="393" height="737"/>
+	<SubTexture name="Worried0001" x="1572" y="0" width="393" height="737"/>
+</TextureAtlas>

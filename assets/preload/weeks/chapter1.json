@@ -1,0 +1,44 @@
+{
+	"storyName": "Chapter 1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Time Stealer",
+			"daniel",
+			[
+				34,
+				44,
+				74
+			]
+		],
+		[
+			"Newbie",
+			"amelia",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"Finale",
+			"dan_lia",
+			[
+				88,
+				76,
+				133
+			]
+		]
+	],
+	"weekName": "chapter1"
+}

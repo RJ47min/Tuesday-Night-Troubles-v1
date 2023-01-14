@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Daniel.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Happy0000" x="0" y="0" width="446" height="808"/>
+	<SubTexture name="Happy0001" x="0" y="0" width="446" height="808"/>
+	<SubTexture name="Mad0000" x="446" y="0" width="446" height="808"/>
+	<SubTexture name="Mad0001" x="446" y="0" width="446" height="808"/>
+	<SubTexture name="Scared0000" x="892" y="0" width="446" height="808"/>
+	<SubTexture name="Scared0001" x="892" y="0" width="446" height="808"/>
+	<SubTexture name="Talking0000" x="1338" y="0" width="446" height="808"/>
+	<SubTexture name="Talking0001" x="1338" y="0" width="446" height="808"/>
+	<SubTexture name="Worried0000" x="0" y="808" width="446" height="808"/>
+	<SubTexture name="Worried0001" x="0" y="808" width="446" height="808"/>
+</TextureAtlas>

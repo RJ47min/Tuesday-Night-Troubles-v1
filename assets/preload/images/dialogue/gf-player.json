@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		20,
+		-10
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"loop_name": "Talking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Talking",
+			"anim": "talking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Worried",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Scared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "GF_Dialogue-player"
+}

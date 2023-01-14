@@ -1,0 +1,76 @@
+{
+	"position": [
+		50,
+		-50
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Daniel",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Talking",
+			"idle_name": "Talking"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Happy",
+			"idle_name": "Happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Worried",
+			"idle_name": "Worried"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Scared",
+			"idle_name": "Scared"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Mad",
+			"idle_name": "Mad"
+		}
+	]
+}

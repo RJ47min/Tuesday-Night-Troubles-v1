@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "How long have we been roaming the rooftops?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "For quite a while now Evan. Can't do anything that there was a traffic block",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Ok, I guess you're right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Oh hey, who's that in the distance?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Idk, should we go check and see if they're ok?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*ahem* 'Ello there m8, how you doin' on this fine afternoon?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "(Evan, are you serious with your British accent again?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "(Of course I am! British is in my blood for christ sake...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh hey there, didn't notice that you two were behind me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So what brings you two here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Traffic block..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Jeez, well can't do anything about those sadly"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Hey uhhh what's your name?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Oh sorry. Where are my manners?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "The name's Daniel but you can call me Dan if you want"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Alright Dan, Do you wanna sing together?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I should be going but eh, why not. It shouldn't be that much of a problem right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, let's do this!"
+		}
+	]
+}

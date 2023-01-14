@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Woohoo, that was amazing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "happy",
+			"text": "Great job, both of you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "happy",
+			"text": "You and Amelia did great aswell!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "worried",
+			"text": "Hey Evan. Can we talk alone for a minute?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talking",
+			"text": "Can I also talk to you Lucy?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Amelia"
+		},
+		{
+			"expression": "talking",
+			"text": "Sure thing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "worried",
+			"text": "So uhh, Evan. Have you felt that smth just feels wrong?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "worried",
+			"text": "No I haven't. Why's that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "worried",
+			"text": "I feel like someone was watching us during our singing times",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "worried",
+			"text": "Watching us? You sure?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "worried",
+			"text": "Yeah, I hope I'm not stressing you out with it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "worried",
+			"text": "No no, you're not",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "*a gunshot goes off near all of them*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "scared",
+			"text": "OH SHIT, THE FUCK WAS THAT!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "scared",
+			"text": "I heard a gunshot, near ALL OF US...",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "scared",
+			"text": "LET'S SPREAD OUT! AMELIA, YOU GO WITH LUCY AND I'LL GO WITH EVAN! YA GOT THAT!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "scared",
+			"text": "ALRIGHT I WILL!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "scared",
+			"text": "Let's go Lucy! Quick!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "scared",
+			"text": "C'mon Evan, I know a place where we can go to stay low for a bit!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel"
+		},
+		{
+			"expression": "scared",
+			"text": "Alright!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "THE END..?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.17,
+			"portrait": "narrator"
+		}
+	]
+}

@@ -1,0 +1,243 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Evan Left0"
+		},
+		{
+			"offsets": [
+				-12,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Evan Up0"
+		},
+		{
+			"offsets": [
+				-20,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Evan Right0"
+		},
+		{
+			"offsets": [
+				-5,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Evan Lucy Idle"
+		},
+		{
+			"offsets": [
+				-19,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Evan Down0"
+		},
+		{
+			"offsets": [
+				9,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Evan Lucy Left MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Evan Lucy Down MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Evan Lucy Up MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Evan Lucy Right MISS"
+		},
+		{
+			"offsets": [
+				-5,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Evan Lucy first death"
+		},
+		{
+			"offsets": [
+				-5,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Evan Lucy dead loop"
+		},
+		{
+			"offsets": [
+				-5,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Evan Lucy dead confirm"
+		},
+		{
+			"offsets": [
+				-3,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Lucy Left0"
+		},
+		{
+			"offsets": [
+				-3,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Lucy Down0"
+		},
+		{
+			"offsets": [
+				-3,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Lucy Up0"
+		},
+		{
+			"offsets": [
+				-3,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Lucy Right0"
+		},
+		{
+			"offsets": [
+				9,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"loop": false,
+			"name": "Evan Lucy Left MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"loop": false,
+			"name": "Evan Lucy Down MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"loop": false,
+			"name": "Evan Lucy Up MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"loop": false,
+			"name": "Evan Lucy Right MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EvanLucy",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "bf_gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		150,
+		39,
+		122
+	],
+	"camera_position": [
+		30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That was fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah it was!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh hey, y'all are finished already?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Lemme guess Daniel, you didn't find your scarf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Of course I didn't"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Evan it's getting late, we should get going now, before we have to walk home in the complete darkness"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Yeah we should"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See you two later then!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Wait! Evan, I wanted to ask you smth. Do you wanna have one more round?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "And ofc Amelia and me are singing together. So if Lucy wants to then she can also sing with you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Lucy do you want to?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf-player",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Eh sure why not"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Let's do this then Daniel!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "daniel",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Alright, let's do this!"
+		}
+	]
+}
